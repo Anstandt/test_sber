@@ -1,2 +1,10 @@
-# test_sber
-Test task for Sberbank
+# Описание ресурсов
+
+**GET /persons**
+Информация о человеке
+
+**GET /persons/{id}/relations**
+Информация о родственных связях человека
+
+**GET /relation_types**
+Виды родственных связей
